@@ -6,7 +6,12 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
+test-workflow
+## Step 5: Trigger the workflow - I'm making a change to this. Not sure how to add an emoji, so just typing some text. :-)
+
+=======
 ## Finish
+main
 
 _Congratulations friend, you've completed this course!_
 
